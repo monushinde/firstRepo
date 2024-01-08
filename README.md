@@ -1,15 +1,1 @@
-# Welcome to my first Repository !!!
-
-This repository was created just for practice.
-
-List of files present in this repo.
-
-| File name        | Commit          |
-| ------------- |:-------------:|
-| File1.txt    | Yes |
-| A1.txt     | Yes     |
-| newfile.txt | Yes     |
-
-<dl>
-  <dt>firstRepo</dt>
-  <dd>This repository was created just for practice..</dd>
+Java is a widely-used, object-oriented, high-level programming language known for its portability, security features, and versatility. It was developed by James Gosling and his team at Sun Microsystems, and it is now owned by Oracle Corporation.
